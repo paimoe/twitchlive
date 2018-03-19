@@ -1,0 +1,23 @@
+{
+  "name": "twitchlive",
+  "version": "1.0.0",
+  "description": "when twitch channels go live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paimoe/twitchlive.git"
+  },
+  "author": "paimoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paimoe/twitchlive/issues"
+  },
+  "homepage": "https://github.com/paimoe/twitchlive#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-oauth": "^0.1.3"
+  }
+}
